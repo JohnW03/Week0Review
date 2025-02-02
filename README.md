@@ -1,4 +1,6 @@
-My 7 Terms:
+<h1 id="this-is-a-heading">My 7 Terms: </h1> 
+<ul> 
+
 Vision Control
 Git 
 Repository
@@ -8,5 +10,5 @@ Gitpush
 Gitclone
 
 <p>
-<a href="7Things.md">Link to My 7 Terms</a>
+<a href="7Things">Link to My 7 Terms</a>
 </p>
